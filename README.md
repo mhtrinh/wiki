@@ -1,2 +1,2 @@
 # wiki
-Repo just to host a wiki
+Repo just to host my personal wiki : https://github.com/mhtrinh/wiki/wiki
